@@ -1,0 +1,6 @@
+.text{
+  width: 50vw;
+  padding: 25 25 0;
+  max-height: 100px;
+  overflow: auto;
+}
